@@ -1,0 +1,164 @@
+body{
+		padding:0px;
+	    margin:0px;
+	    background-color:grey;
+
+	}
+
+
+.example{
+
+     border: 1px solid black;
+  background:url(img_.gif);
+  background-size: 100px 80px;
+  background-repeat: no-repeat;
+  padding:15px;
+
+
+}
+	.lifeskills{
+
+    	width:1000px;
+		height: 3600px;
+		background-color: orange;
+        padding: 30px;
+        border: 5px solid black;
+        margin: 30px auto;
+        border-radius: 30px;
+        text-align: center;
+
+
+
+
+	}
+
+    .music{
+    	width:600px;
+		height: 400px;
+		background-color: 240, 100%, 50%;
+        padding: 30px;
+        border: 5px solid black;
+        margin: 30px auto;
+        border-radius: 30px;
+        text-align: center;
+
+
+    }
+
+	.container{
+		width:500px;
+		height: 600px;
+		background-color: lightgreen;
+        padding: 30px;
+        border: 5px solid black;
+        margin: 30px auto;
+        
+
+
+	}
+
+	.container h1{
+     text-align: center;
+     text-decoration-line: underline;
+     text-decoration-style: solid;
+
+
+	}
+
+	.container p{
+         margin: 0px;
+         padding: 0px;
+         color: black;
+         text-align:none;
+
+
+	}
+
+	.loveless{
+        width:500px;
+		height: 500px;
+		background-color: pink;
+        padding: 30px;
+        border: 5px solid blue;
+        margin: 30px auto;
+       
+
+	}
+
+	.loveless h1 {
+		text-align:center;
+		color: black;
+		text-decoration-line: underline;
+
+	}
+
+	.loveless p {
+		text-align:center;
+		color: black;
+
+       
+
+	}
+
+    .lisalab{
+	    width:500px;
+		height: 800px;
+		background-color: lightblue;
+        padding: 30px;
+        border: 5px solid blue;
+        margin: 30px auto;
+    }
+        
+
+    .lisalab h1 {
+		text-align:center;
+		color: black;
+		text-decoration-line: underline;
+   }
+
+	.lisalab p{
+		text-align: center;
+		color: black;
+		font-size: 16px;
+
+	}
+
+	
+    .crime{
+	    width:500px;
+		height: 600px;
+		background-color: yellow;
+        padding: 30px;
+        border: 5px solid blue;
+        margin: 30px auto;
+
+	}
+
+	.akirachix{
+		width:1000px;
+		height: 800px;
+        padding: 30px;
+        border: 5px solid blue;
+        border-radius:30px;
+        margin: 30px auto;
+        
+         background-color: orange;
+         
+
+	}
+
+	.akirachix p{
+
+color: black;
+
+	}
+
+	.akirachix h2 p{
+
+		text-align:left;
+		color: black;
+   
+	}
+
+
+	.akirachix 

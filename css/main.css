@@ -1,0 +1,22 @@
+body{
+	background-color:pink;
+	margin: 0px;
+	padding:0px;
+}
+
+
+
+.annie{
+    
+	color:red;
+	background-color:blue;
+	border-style:solid;
+	padding: 40px;
+	text-align:center;
+	border-width: 5px;
+	 font-family: courier;
+    font-size: 160%;
+    border:5px solid green;
+    margin: 150px;
+
+}

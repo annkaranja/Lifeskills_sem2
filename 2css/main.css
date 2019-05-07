@@ -1,0 +1,21 @@
+body{
+  background-color: rgb(180, 180, 180);
+}
+
+h1{
+  color:black;
+  text-align: center;
+  text-decoration: none;
+  overflow:auto;
+}
+
+.content{
+  width:1000px;
+  margin:0 auto;
+  background-color: #fff;
+}
+
+p{
+  text-align: justify;
+  font-family: arial;
+}
